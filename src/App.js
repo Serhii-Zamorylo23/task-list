@@ -1,6 +1,7 @@
+import TaskList from "./Components/TaskList/TaskList";
 function App() {
   return (
-    <></>
+    <TaskList/>
   );
 }
 
